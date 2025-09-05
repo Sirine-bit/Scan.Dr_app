@@ -1,0 +1,20 @@
+﻿# Flutter
+build/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+
+# IDE
+.idea/
+*.iml
+
+# Python
+my_env/
+venv/
+__pycache__/
+*.pyc
+
+# Environment
+.env
+remove_secrets.txt
