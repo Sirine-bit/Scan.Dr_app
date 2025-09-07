@@ -251,10 +251,10 @@ The app's analysis should never replace professional medical consultation.
 
 
 ## Contact 📧
-
-**Developer**: Sirine Makni
+**Sirine Makni** - *Engineering Student @ SUP'COM, Tunis*
 **Email**: sirine.makni@supcom.tn  
-**LinkedIn**: [[Your LinkedIn Profile](https://linkedin.com/in/yourprofile) ](https://www.linkedin.com/in/sirine-makni-9367752a3/) 
-**Project Link**: [[https://github.com/yourusername/mediscan](https://github.com/yourusername/mediscan)](https://github.com/Sirine-bit/Scan.Dr_app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sirine-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sirine-makni-9367752a3/)
+[![GitHub](https://img.shields.io/badge/GitHub-Sirine-black?logo=github&logoColor=white)](https://github.com/Sirine-bit)
+
 
 ---
