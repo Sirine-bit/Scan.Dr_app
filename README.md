@@ -42,11 +42,13 @@ Scan.Dr is a comprehensive mobile health application designed to bridge the gap 
 - **🔒 Privacy-First**: Local processing for sensitive medical data
 
 ## Screenshots 📷
-
+| Home Screen |  Analysis Results |
+|-------------|-------------------|
+| ![Home](screenshots/home.png) | ![Results](screenshots/results.png) |
 <!-- Add your screenshots here -->
-| Home Screen | Scanner Interface | Analysis Results | AI Chatbot | Calendar View |
-|-------------|-------------------|------------------|------------|---------------|
-| ![Home](screenshots/home.png) | ![Scanner](screenshots/scanner.png) | ![Results](screenshots/results.png) | ![Chat](screenshots/chat.png) | ![Calendar](screenshots/calendar.png) | 
+|Scanner Interface | AI Chatbot | Calendar View |
+|------------------|------------|---------------|
+|![Scanner](screenshots/scanner.png) | ![Chat](screenshots/chat.png) | ![Calendar](screenshots/calendar.png) | 
 
 ## Technologies Used 🛠️
 
